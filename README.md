@@ -1,5 +1,5 @@
-# It's Always Random in Philadelphia
-Want to watch an episode of Always Sunny in Philadelphia, but not sure which one to choose? Don't get stuck in analysis paralysis! Simply go open this app and a random episode will be suggested for you. Don't feel like watching that episode? Simply just refresh the page and a different episode will be randomly selected!
+# Futurama Random Episode Generator
+Want to watch an episode of Futurama, but not sure which one to choose? Don't get stuck in analysis paralysis! Simply go open this app and a random episode will be suggested for you. Don't feel like watching that episode? Simply just refresh the page and a different episode will be randomly selected!
 
 ## This project was built using [Create React App](https://github.com/facebook/create-react-app).
 
