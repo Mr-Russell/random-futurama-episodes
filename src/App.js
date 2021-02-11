@@ -16,7 +16,7 @@ function App() {
   const [episode, setEpisode] = useState(blankEpisode)
   
   useEffect(() => {
-    axios.get('http://api.tvmaze.com/shows/538/episodes')
+    axios.get('https://api.tvmaze.com/shows/538/episodes')
       .then(res => {
         const episodes = res.data
         const randomEpisode = episodes[Math.floor(Math.random() * episodes.length)]
