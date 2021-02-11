@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #3CA3DB;
+}
+
+h1 {
+  font-family: 'Carter One', cursive;
+  font-size: 3.5rem;
+  -webkit-text-stroke: 2px #F9D114;
+  letter-spacing: 10px;
+  color: #E31A19;
+}

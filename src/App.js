@@ -29,10 +29,11 @@ function App() {
   return (
     <div className="App">
       <div>
+        <h1>FUTURAMA</h1>
         <h3>Season: {episode.season}</h3>
         <h3>Episode: {episode.number}</h3>
       </div>
-      <h1>{episode.name}</h1>
+      <h2>{episode.name}</h2>
       <img src={episode.image.medium} alt="Episode Image" />
       <p>{episode.summary}</p>
     </div>
